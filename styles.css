@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.top-square {
+    width: 1265px;
+    height: 100px;
+    background-color: indigo;
+}
+.left-square {
+    width: 100px;
+    height: 515px;
+    background-color: indigo;
+}
+.right-square {
+    width: 100px;
+    height: 515px;
+    background-color: indigo;
+    position: relative;
+    left: 1165px;
+    bottom: 515px;
+}
+.bottem-square {
+    width: 1265px;
+    height: 100px;
+    background-color: indigo;
+    position: relative;
+    bottom: 615px;
+}
+.hi {
+    position: relative;
+    bottom: 1000px;
+    text-align: center;
+}
+.description {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 1000px;
+}
+
+.about-me {
+    position: relative;
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    color: white;
+    border-radius: 7%;
+    bottom: 900px;
+    left: 400px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 45px;  
+}
